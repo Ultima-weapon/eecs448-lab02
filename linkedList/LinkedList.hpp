@@ -110,7 +110,7 @@ bool LinkedList<T>::removeBack()
 			secondintoLast = m_front;
 			for(int i = 0; i < size() - 1; i++){
 				secondintoLast = lastNode;
-				lastNode = lastNode.getNext();
+				lastNode = lastNode->getNext();
 			}
 			delete lastNode;
 			secondintoLast->setNext(nullptr);
