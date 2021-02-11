@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 e2c0050ecb72620eb4e73bd8881da0c315488f86 Andrew Ford <24680647+Ultima-weapon@users.noreply.github.com> 1613020773 -0600	clone: from https://github.com/Ultima-weapon/eecs448-lab02.git
+e2c0050ecb72620eb4e73bd8881da0c315488f86 d99cde8e1f4d9292104e4139b1d7e0d0fad89891 Andrew Ford <24680647+Ultima-weapon@users.noreply.github.com> 1613023604 -0600	commit: LinkedList.size() method fix
+d99cde8e1f4d9292104e4139b1d7e0d0fad89891 818f555d70a1eb8ba3743ee27e47f737aa957d7e Andrew Ford <24680647+Ultima-weapon@users.noreply.github.com> 1613024503 -0600	commit: LinkedList.search(value) method fix
+818f555d70a1eb8ba3743ee27e47f737aa957d7e 078c35c9e1789e78ea579223955e3f0f5a82e89c Andrew Ford <24680647+Ultima-weapon@users.noreply.github.com> 1613025929 -0600	commit: LinkedList.removeBack() method fix
+078c35c9e1789e78ea579223955e3f0f5a82e89c 3ac50358e8f0166c6620fe432f1f7b1329485571 Andrew Ford <24680647+Ultima-weapon@users.noreply.github.com> 1613026211 -0600	commit: LinkedList.search spelling error fix
+3ac50358e8f0166c6620fe432f1f7b1329485571 f1924e91aafcf6b8d2b2cbc22973ef15d7625683 Andrew Ford <24680647+Ultima-weapon@users.noreply.github.com> 1613026330 -0600	commit: LinkedList.removeBack() pointer method call fix
